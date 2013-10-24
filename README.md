@@ -55,5 +55,4 @@ StyleSelect has been tested on the following web browsers:
 
 
 ***
-***
 I wrote this to be used on an upcoming website but decided that since no good `<select>` plugins exist, I should upload it. I ask that you don't steal the code, but _please_ do submit pull requests and open issues. Thank you.
